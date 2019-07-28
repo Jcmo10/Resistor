@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Resistor</string>
+
+    <string name="Calular">Calcular</string>
+    <string name="IvImagen">Imagen</string>
+    <string name="Resultado">Resultado</string>
+
+    <string-array name="Banda1">
+        <item>Selecciona</item>
+        <item>Cafe</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Violeta</item>
+        <item>Gris</item>
+        <item>Blanco</item>
+    </string-array>
+
+
+    <string-array name="Banda2">
+        <item>Selecciona</item>
+        <item>Negro</item>
+        <item>Cafe</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Violeta</item>
+        <item>Gris</item>
+        <item>Blanco</item>
+    </string-array>
+
+
+    <string-array name="Banda3">
+        <item>Selecciona</item>
+        <item>Negro</item>
+        <item>Cafe</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Violeta</item>
+        <item>Gris</item>
+        <item>Blanco</item>
+        <item>Dorado</item>
+        <item>Plateado</item>
+    </string-array>
+
+    <string-array name="Banda4">
+        <item>Selecciona</item>
+        <item>Cafe</item>
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Violeta</item>
+        <item>Gris</item>
+        <item>Dorado</item>
+        <item>Plateado</item>
+    </string-array>
+
+</resources>
