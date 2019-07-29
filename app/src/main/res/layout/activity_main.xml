@@ -15,7 +15,6 @@
                 android:id="@+id/IvImagen"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-
                 android:src="@drawable/rest"
                 android:contentDescription="@string/IvImagen"
                 app:layout_constraintTop_toTopOf="parent"
